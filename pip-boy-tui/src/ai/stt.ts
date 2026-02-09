@@ -12,24 +12,40 @@ export interface STTOptions {
   tmpDir?: string;
 }
 
-/** Find the whisper binary — tries common build output paths */
+/** Project root: pip-boy-tui/src/ai/ → ../../.. → pip-boy/ */
+const PROJECT_ROOT = resolve(import.meta.dir, "../../..");
+
+/** Find the whisper binary — tries both root and ai-models/ locations */
 function findWhisperBin(): string {
-  const base = resolve(import.meta.dir, "../../../ai-models/whisper.cpp/build/bin");
+  const searchDirs = [
+    resolve(PROJECT_ROOT, "whisper.cpp/build/bin"),
+    resolve(PROJECT_ROOT, "ai-models/whisper.cpp/build/bin"),
+  ];
+  const names = ["whisper-cli", "main", "whisper"];
+  for (const dir of searchDirs) {
+    for (const name of names) {
+      const p = resolve(dir, name);
+      if (existsSync(p)) return p;
+    }
+  }
+  return "whisper-cli";
+}
+
+/** Find the whisper model file */
+function findWhisperModel(): string {
   const candidates = [
-    resolve(base, "whisper-cli"),
-    resolve(base, "main"),
-    resolve(base, "whisper"),
+    resolve(PROJECT_ROOT, "models/ggml-base.en.bin"),
+    resolve(PROJECT_ROOT, "ai-models/models/ggml-base.en.bin"),
   ];
   for (const p of candidates) {
     if (existsSync(p)) return p;
   }
-  // Fallback: maybe it's on PATH
-  return "whisper-cli";
+  return candidates[0]!;
 }
 
 const DEFAULTS: Required<STTOptions> = {
   whisperBin: findWhisperBin(),
-  whisperModel: resolve(import.meta.dir, "../../../ai-models/models/ggml-base.en.bin"),
+  whisperModel: findWhisperModel(),
   recordCommand: process.platform === "darwin" ? "rec" : "arecord",
   sampleRate: 16000,
   tmpDir: "/tmp",

@@ -17,7 +17,8 @@ SHELL := /bin/bash
 OS := $(shell uname -s)
 ARCH := $(shell uname -m)
 TUI_DIR := pip-boy-tui
-MODELS_DIR := models
+AI_DIR := ai-models
+MODELS_DIR := $(AI_DIR)/models
 BUN := $(shell command -v bun 2>/dev/null)
 ZIG := $(shell command -v zig 2>/dev/null)
 
@@ -127,21 +128,24 @@ setup-ai: $(MODELS_DIR) setup-llama-cpp setup-whisper-cpp download-models
 	@echo "  Run 'make benchmark' to test inference speed."
 	@echo ""
 
-setup-llama-cpp:
+setup-llama-cpp: $(AI_DIR)
 	@echo "  $(YELLOW)Building llama.cpp...$(NC)"
-	@if [ ! -d "llama.cpp" ]; then \
-		git clone https://github.com/ggerganov/llama.cpp.git; \
+	@if [ ! -d "$(AI_DIR)/llama.cpp" ]; then \
+		git clone https://github.com/ggerganov/llama.cpp.git $(AI_DIR)/llama.cpp; \
 	fi
-	cd llama.cpp && cmake -B build && cmake --build build --config Release -j$$(nproc 2>/dev/null || sysctl -n hw.ncpu)
+	cd $(AI_DIR)/llama.cpp && cmake -B build && cmake --build build --config Release -j$$(nproc 2>/dev/null || sysctl -n hw.ncpu)
 	@echo "  $(GREEN)llama.cpp built.$(NC)"
 
-setup-whisper-cpp:
+setup-whisper-cpp: $(AI_DIR)
 	@echo "  $(YELLOW)Building whisper.cpp...$(NC)"
-	@if [ ! -d "whisper.cpp" ]; then \
-		git clone https://github.com/ggerganov/whisper.cpp.git; \
+	@if [ ! -d "$(AI_DIR)/whisper.cpp" ]; then \
+		git clone https://github.com/ggerganov/whisper.cpp.git $(AI_DIR)/whisper.cpp; \
 	fi
-	cd whisper.cpp && cmake -B build && cmake --build build --config Release -j$$(nproc 2>/dev/null || sysctl -n hw.ncpu)
+	cd $(AI_DIR)/whisper.cpp && cmake -B build && cmake --build build --config Release -j$$(nproc 2>/dev/null || sysctl -n hw.ncpu)
 	@echo "  $(GREEN)whisper.cpp built.$(NC)"
+
+$(AI_DIR):
+	mkdir -p $(AI_DIR)
 
 download-models: $(MODELS_DIR)
 	@echo "  $(YELLOW)Downloading models...$(NC)"
@@ -178,8 +182,8 @@ benchmark-llm:
 	@echo "  $(YELLOW)Benchmarking LLM (Llama 3.2 3B)...$(NC)"
 	@echo "  Prompt: 'How do I treat a second-degree burn?'"
 	@echo "  ────────────────────────────────────────"
-	@if [ -f "llama.cpp/build/bin/llama-cli" ]; then \
-		time llama.cpp/build/bin/llama-cli \
+	@if [ -f "$(AI_DIR)/llama.cpp/build/bin/llama-cli" ]; then \
+		time $(AI_DIR)/llama.cpp/build/bin/llama-cli \
 			-m $(MODELS_DIR)/Llama-3.2-3B-Instruct-Q4_K_M.gguf \
 			-p "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\nYou are a survival assistant. Answer in bullet points only.<|eot_id|><|start_header_id|>user<|end_header_id|>\nHow do I treat a second-degree burn?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n" \
 			-n 200 \
@@ -194,9 +198,9 @@ benchmark-stt:
 	@echo ""
 	@echo "  $(YELLOW)Benchmarking STT (Whisper tiny.en)...$(NC)"
 	@echo "  ────────────────────────────────────────"
-	@if [ -f "whisper.cpp/build/bin/whisper-cli" ]; then \
+	@if [ -f "$(AI_DIR)/whisper.cpp/build/bin/whisper-cli" ]; then \
 		if [ -f "test-audio.wav" ]; then \
-			time whisper.cpp/build/bin/whisper-cli \
+			time $(AI_DIR)/whisper.cpp/build/bin/whisper-cli \
 				-m $(MODELS_DIR)/ggml-tiny.en.bin \
 				-f test-audio.wav \
 				2>&1; \
@@ -216,13 +220,11 @@ benchmark-stt:
 clean:
 	@echo "  $(YELLOW)Cleaning...$(NC)"
 	rm -rf $(TUI_DIR)/node_modules
-	rm -rf llama.cpp/build
-	rm -rf whisper.cpp/build
+	rm -rf $(AI_DIR)/llama.cpp/build
+	rm -rf $(AI_DIR)/whisper.cpp/build
 	@echo "  $(GREEN)Clean.$(NC)"
 
 clean-all: clean
 	@echo "  $(YELLOW)Removing models and cloned repos...$(NC)"
-	rm -rf $(MODELS_DIR)
-	rm -rf llama.cpp
-	rm -rf whisper.cpp
+	rm -rf $(AI_DIR)
 	@echo "  $(GREEN)All clean.$(NC)"
