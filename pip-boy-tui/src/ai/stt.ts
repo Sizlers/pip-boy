@@ -12,8 +12,23 @@ export interface STTOptions {
   tmpDir?: string;
 }
 
+/** Find the whisper binary — tries common build output paths */
+function findWhisperBin(): string {
+  const base = resolve(import.meta.dir, "../../../ai-models/whisper.cpp/build/bin");
+  const candidates = [
+    resolve(base, "whisper-cli"),
+    resolve(base, "main"),
+    resolve(base, "whisper"),
+  ];
+  for (const p of candidates) {
+    if (existsSync(p)) return p;
+  }
+  // Fallback: maybe it's on PATH
+  return "whisper-cli";
+}
+
 const DEFAULTS: Required<STTOptions> = {
-  whisperBin: resolve(import.meta.dir, "../../../ai-models/whisper.cpp/build/bin/whisper-cli"),
+  whisperBin: findWhisperBin(),
   whisperModel: resolve(import.meta.dir, "../../../ai-models/models/ggml-base.en.bin"),
   recordCommand: process.platform === "darwin" ? "rec" : "arecord",
   sampleRate: 16000,
