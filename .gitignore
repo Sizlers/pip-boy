@@ -43,7 +43,8 @@ coverage/
 /tmp/
 *.wav
 
-# ── Screenshots ──
+# ── Screenshots (allow docs/) ──
 *.png
 *.jpg
 *.jpeg
+!docs/screenshots/*.png
