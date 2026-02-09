@@ -1,0 +1,85 @@
+## DOMAIN: Historical Knowledge and Lessons from Collapse
+
+### Why History Matters for Survival
+
+Understanding why civilisations collapsed reveals patterns we can avoid. Nearly every collapse shares common causes: resource depletion, environmental degradation, inequality, loss of institutional knowledge, and failure to adapt. The solutions that rebuilt societies are equally instructive.
+
+### The Bronze Age Collapse (c. 1200 BCE)
+
+One of the most catastrophic collapses in history. Within 50 years, nearly every major civilisation in the Eastern Mediterranean fell — the Hittites, Mycenaean Greeks, Egyptians (weakened), Ugarit, and others. International trade networks that had connected them all collapsed simultaneously.
+
+Causes: a cascade of interconnected failures — drought and famine, earthquakes, disrupted trade routes, invasions by displaced peoples (the "Sea Peoples"), and systems too complex and interdependent to survive disruption of any single element.
+
+Lesson: highly interconnected systems are fragile. When one node fails, cascading failures can bring down the entire network. Resilient systems need redundancy and the ability to function independently. A settlement should be able to survive isolation from external supply chains.
+
+### The Fall of Rome (476 CE, Western Empire)
+
+The Roman Empire sustained 50+ million people across Europe, North Africa, and the Middle East through sophisticated infrastructure — roads, aqueducts, sanitation, law, and trade. The Western Empire declined over centuries before its formal end.
+
+Causes: overextension of military and borders, economic inflation (debasing coinage), loss of tax base, reliance on mercenary armies with no loyalty to the state, lead in water systems contributing to health problems, political instability (26 emperors in 50 years during the Crisis of the Third Century), and pressure from migrating peoples.
+
+Aftermath: the "Dark Ages" saw loss of literacy, engineering knowledge (concrete formula forgotten for centuries), long-distance trade, and urban living. Population in Rome fell from over 1 million to approximately 20,000. Aqueducts broke and no one could repair them. Roads deteriorated. Knowledge survived primarily in monasteries and the Eastern (Byzantine) Empire.
+
+Lesson: institutional knowledge must be preserved and distributed, not concentrated. When the few people who know how something works die or leave, the capability is lost. Written records, apprenticeship, and redundancy of knowledge are essential. Also: maintaining infrastructure is cheaper than rebuilding from nothing.
+
+### The Black Death (1347–1353)
+
+The bubonic plague killed 30–60% of Europe's population within 6 years. Carried by fleas on rats, spread along trade routes.
+
+Effects: labour shortages ended feudal serfdom (survivors could demand wages), fields lay fallow, villages were abandoned, social order fractured, religious authority was questioned. But the survivors inherited the resources of the dead — per capita wealth increased dramatically, leading to innovation, exploration, and eventually the Renaissance.
+
+Lessons: epidemic disease is the fastest existential threat to a community. Quarantine works — the word comes from "quarantina," the 40-day isolation period Venice imposed on arriving ships. Sanitation and pest control are not luxuries. Communities that isolated early suffered least. Stockpile knowledge of herbal medicines and basic disease prevention. A small community with good hygiene practices can survive a pandemic that destroys larger, denser populations.
+
+### Easter Island (Rapa Nui) Collapse
+
+A Polynesian society on a remote Pacific island that deforested their entire island by approximately 1600 CE. Without trees: no canoes (ending deep-sea fishing), no fuel, catastrophic soil erosion destroying agriculture. Population crashed from perhaps 15,000 to approximately 2,000.
+
+Lesson: environmental resources are finite. If consumption exceeds regeneration, collapse is inevitable. The islanders could see the last trees being cut — yet continued. A functioning governance system must enforce sustainable resource use even when short-term incentives favour exploitation.
+
+### The Dust Bowl (1930s, USA)
+
+Industrial-scale ploughing of the Great Plains destroyed native grasslands whose root systems held the topsoil in place. Years of drought turned millions of acres to dust. Massive dust storms buried farms and towns. Hundreds of thousands of people displaced.
+
+Lesson: soil is the foundation of civilisation and takes centuries to form. Protect it. Never strip vegetation from large areas. Practice conservation agriculture: minimal tillage, crop rotation, cover crops, windbreaks. See the Farming domain for soil management details.
+
+### Key Technologies That Rebuilt Societies
+
+Writing and record-keeping: every successful recovery from collapse was accompanied by the preservation or reinvention of writing. Written knowledge survives the death of individuals. Prioritise creating written records of all critical knowledge, procedures, and decisions.
+
+The printing press: before Gutenberg (1440s), every book was copied by hand — knowledge was scarce and easily lost. Mechanical reproduction of text was the single most transformative technology for preserving and spreading knowledge. In a modern collapse scenario, the digital equivalent is creating multiple physical copies of essential knowledge.
+
+Agriculture: the Neolithic revolution took millennia, but each subsequent recovery took less time because the knowledge of farming persisted. A community that can grow food is a community that survives.
+
+Metallurgy: every historical civilisation required metal tools for advancement. See the Metalworking domain.
+
+Rule of law: societies without agreed rules devolve into violence. See the Governance domain.
+
+### Patterns of Successful Recovery
+
+Communities that recovered fastest from collapse shared common traits:
+
+1. Geographic advantage: access to fresh water, fertile soil, defensible position, and a temperate climate.
+
+2. Preserved knowledge: whether through written records, oral tradition, or retained specialists. The monasteries of Ireland and Britain preserved classical knowledge through the Dark Ages. The Islamic Golden Age (8th–14th centuries) preserved and expanded Greek, Roman, and Persian knowledge when Europe could not.
+
+3. Trade networks: no community is fully self-sufficient long-term. Establishing trade for resources you lack (salt, metals, medicine, specialist skills) is essential. Trade also prevents conflict — people who trade with each other have economic incentive not to fight.
+
+4. Social cohesion: communities with shared purpose, mutual trust, and fair governance survived. Those riven by faction, hoarding, and inequality collapsed further. See Governance domain.
+
+5. Adaptability: rigid systems fail. Societies that changed farming practices, moved to new territory, adopted new technologies, or restructured governance when circumstances changed — those survived.
+
+### Preserving Knowledge
+
+The greatest risk in a collapse is not death from violence or starvation — it is the loss of knowledge. A single generation without transmission of critical skills (metalworking, medicine, engineering, agriculture, literacy) sets recovery back by centuries.
+
+Practical steps: maintain a physical library of essential reference books. Write down procedures and techniques. Train multiple people in every critical skill — no single point of failure. Teach children to read and write — literacy is the foundation of all other knowledge preservation. Establish an apprenticeship system for practical skills.
+
+Critical knowledge to preserve: agriculture and food preservation, water purification, basic medicine and surgery, metallurgy, construction, animal husbandry, navigation, mathematics (at least arithmetic, geometry, and basic algebra), basic chemistry, sanitation, and governance/law.
+
+### Common Mistakes After Collapse
+
+Centralising all resources under one leader without accountability (leads to tyranny and resentment). Consuming seed stock for food (destroys future harvests). Failing to establish sanitation (epidemic disease). Conflict over resources instead of cooperation (weakens everyone). Ignoring long-term sustainability for short-term survival (the Easter Island trap). Abandoning record-keeping (knowledge loss). Failing to establish trade (isolation leads to deficiency and stagnation).
+
+### The Long View
+
+Every collapse in history was eventually followed by recovery. The recovery was faster when knowledge was preserved, governance was fair, and communities cooperated. The goal of this knowledge base is to compress the recovery time — to skip the centuries of re-learning by preserving critical knowledge in a portable, searchable, always-available format. That is the purpose of the Pip-Boy.

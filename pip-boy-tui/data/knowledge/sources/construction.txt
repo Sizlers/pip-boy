@@ -1,0 +1,79 @@
+## DOMAIN: Construction and Engineering
+
+### Site Selection
+
+Choose building sites on high ground with good drainage — never in a flood plain or dry riverbed. Face openings away from prevailing wind (typically away from southwest in the UK/Europe). Avoid hilltops (wind exposure) and valley floors (cold air pooling, flooding). Proximity to water is important but maintain at least 30m distance to avoid flooding and insect problems.
+
+Check for overhead hazards: dead trees (widowmakers), unstable slopes, rockfall zones. In earthquake-prone areas, avoid building against steep slopes or cliff faces.
+
+South-facing slopes (Northern Hemisphere) receive more sunlight — warmer in winter, better for growing food.
+
+### Basic Tools
+
+Essential construction tools in priority order: axe (felling, splitting, shaping), saw (crosscut or bow saw), knife (carving, detail work), shovel (earthworks), hammer (driving stakes and pegs), measuring tool (knotted cord or marked stick), level (water in a clear tube, or a plumb line), square (3-4-5 triangle for right angles).
+
+The 3-4-5 method for right angles: measure 3 units along one edge, 4 units along the other, and the diagonal between them should be exactly 5 units. Works at any scale — 3 metres, 4 metres, 5 metres for buildings.
+
+### Timber
+
+Green (freshly cut) timber is easier to work but shrinks as it dries, loosening joints. Seasoned (air-dried) timber is more stable. Air-drying takes 1 year per inch of thickness. Stack timber off the ground with spacers between layers for airflow, under cover.
+
+Softwoods (pine, spruce, cedar) are easier to work and good for framing. Hardwoods (oak, ash, beech) are stronger and more durable — use for load-bearing members and tool handles.
+
+Timber joints without nails: mortise and tenon (rectangular peg into rectangular hole), dovetail (interlocking wedge shape), lap joint (overlapping halves notched to sit flush), pegged joints (drill holes through joined pieces and insert wooden pegs).
+
+### Post and Beam Construction
+
+The simplest permanent structure. Vertical posts set into the ground or onto stone pads, horizontal beams across the top, rafters for the roof. For ground-set posts, bury at least 1/3 of the post length. Char the buried end with fire to resist rot (charring creates a carbon layer that repels water and insects).
+
+For a basic rectangular building: 4 corner posts, horizontal wall plates along the top of each wall, tie beams across the width, rafters from ridge to wall plate. Add intermediate posts every 1.5–2m for walls. Fill walls with wattle and daub, cob, or stacked logs.
+
+### Wall Materials
+
+Wattle and daub: weave flexible branches (hazel, willow) between upright stakes to form wattle panels. Coat both sides with daub — a mixture of clay, straw/grass, sand, and water (optionally animal dung for binding). Apply in layers, letting each dry. Insulates reasonably well and lasts decades if kept dry above and below (roof overhang and raised foundation).
+
+Cob: a mixture of clay subsoil, straw, water, and sometimes sand. Mixed by treading and stacked in layers approximately 30cm high. Each layer must partially dry before adding the next. Walls are typically 40–60cm thick. Excellent thermal mass — warm in winter, cool in summer. Needs a good roof overhang and a stone foundation to prevent rising damp.
+
+Log construction: horizontally stacked logs, notched at the corners. Saddle notch or Scandinavian cope for weather resistance. Gaps chinked with moss, clay, or a lime/sand mix. Requires straight, uniform-diameter logs — pine and spruce are ideal.
+
+Stone: dry stone walls (no mortar) for fences and low structures. For load-bearing walls, use mortar — lime morite is made by burning limestone (calcium carbonate) to make quicklime (calcium oxide), slaking with water to make hydrated lime, then mixing with sand. Ratio approximately 1 part lime to 3 parts sand. Lime mortar is flexible and breathable — superior to cement for traditional buildings.
+
+Adobe/mud brick: mix clay soil with straw and water, press into moulds, dry in the sun for 2–4 weeks. Stack with mud mortar. Works best in dry climates. Walls must be protected from rain with render or wide roof overhang.
+
+### Roofing
+
+A roof must shed water reliably — this is the most critical element of any building. Minimum pitch for thatch: 45°. For shingles: 30°. For corrugated metal: 15°.
+
+Thatch: bundles of reed, straw, or long grass, layered from eaves to ridge, each layer overlapping the one below. A well-made thatch roof lasts 15–30 years. Thickness should be at least 30cm. Use hazel or willow spars (U-shaped pins) to secure bundles.
+
+Wooden shingles (shakes): split thin from straight-grained logs (cedar, oak, chestnut). Overlap each course by at least 2/3. Nail or peg to battens on rafters.
+
+Sod/turf roof: over a waterproof layer (birch bark, plastic sheeting, or dense clay), lay turf grass-side up. Heavy — structure must be built to support the weight. Good insulation. Traditional in Scandinavia.
+
+### Foundations
+
+All permanent structures need a foundation to distribute weight and prevent settling. At minimum, clear the topsoil and compact the subsoil. In cold climates, foundations must extend below the frost line (60–120cm in temperate regions) to prevent frost heave.
+
+Stone pad foundations: flat stones under each post. Simple and effective for light structures.
+
+Continuous stone foundation: a trench filled with compacted rubble and topped with flat stones. Raises the building above ground moisture.
+
+### Earthworks
+
+Drainage ditches: dig a V-shaped trench uphill of your building to divert surface water. Minimum 30cm deep, angled to drain away from the structure. French drain: a gravel-filled trench that allows water to percolate through.
+
+Rammed earth: build a form (two parallel boards held apart by spacers), fill with slightly damp earth (ideally 70% sand/gravel, 30% clay), and compact in 10–15cm layers with a heavy rammer. Remove the form when complete. Extremely strong and durable. Walls are typically 30–45cm thick. Used for thousands of years — some rammed earth walls survive from the Roman era.
+
+### Water Supply
+
+Gravity-fed water: if a water source is uphill of your settlement, you can pipe water downhill using any sealed pipe or tube. For every 10m of horizontal distance, you need at least 1m of vertical drop for adequate flow. Bamboo, hollowed logs, or salvaged plastic pipe all work.
+
+Rainwater collection: 1mm of rain on 1 square metre of roof yields 1 litre of water. A 50 square metre roof in an area with 800mm annual rainfall collects 40,000 litres per year. Store in covered tanks or cisterns. First-flush diverters (discard the first few litres of each rain event) improve water quality.
+
+Wells: dig by hand in areas with a high water table. Line with stone, brick, or timber to prevent collapse. Cover to prevent contamination. A hand pump can lift water from up to 7m depth with a suction pump, or deeper with a force pump.
+
+### Sanitation Infrastructure
+
+Latrines must be at least 30m from any water source and downhill/downstream. Dig at least 1.5m deep. A simple pit latrine with a raised seat and a ventilation pipe (VIP latrine) controls flies and odour. When 2/3 full, cover with 30cm of soil and dig a new one.
+
+Long-term: composting toilet separates liquid and solid waste. Solid waste is mixed with carbon material (sawdust, dry leaves) and composted for 12+ months at high temperature before use on non-food crops.

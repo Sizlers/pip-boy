@@ -1,0 +1,95 @@
+## DOMAIN: Electricity and Power Generation
+
+### Electrical Fundamentals
+
+Voltage (V) is electrical pressure — the force pushing electrons through a circuit. Current (A, amps) is the flow rate of electrons. Resistance (ohms) opposes current flow. Ohm's Law: V = I × R. Power (W, watts) = V × I.
+
+A circuit must form a complete loop — current flows from the positive terminal of a power source, through the load (device), and back to the negative terminal. A break anywhere in the loop stops current flow (this is how a switch works).
+
+Series circuits: components connected end-to-end. Current is the same through all components. Voltages add up. If one component fails, the whole circuit stops.
+
+Parallel circuits: components connected side-by-side. Voltage is the same across all components. Currents add up. If one component fails, others continue working.
+
+### Batteries
+
+A battery converts chemical energy to electrical energy. Cells produce approximately 1.5V (alkaline) or 3.7V (lithium). Connect in series for higher voltage, in parallel for more capacity.
+
+Car batteries (lead-acid): 12V, typically 40–100 Ah (amp-hours). Rechargeable. Heavy but widely available and robust. Deep-cycle variants (marine/leisure batteries) tolerate repeated discharge better than starter batteries. Do not discharge below 50% to preserve lifespan.
+
+Lithium-ion: high energy density, lightweight. 3.7V per cell. Found in laptops, power tools, electric vehicles. Require a charge controller — overcharging or over-discharging causes fire or permanent damage. Do not puncture, crush, or expose to high heat.
+
+Battery capacity is rated in amp-hours (Ah). A 100Ah battery can theoretically deliver 1A for 100 hours, or 10A for 10 hours. Real capacity decreases at higher discharge rates and in cold temperatures.
+
+### Improvised Batteries
+
+Voltaic pile: stack alternating discs of copper and zinc (or two different metals) separated by cloth soaked in saltwater or vinegar (electrolyte). Each cell produces approximately 0.7V. Stack 20+ for a usable voltage.
+
+Earth battery: bury two different metal rods (copper and zinc, or copper and iron) in moist earth, 1m apart. Produces 0.5–1V. Very low current but can trickle-charge small devices or power a crystal radio.
+
+Lemon/potato battery: insert a copper wire and a zinc-coated nail into a lemon or potato. Each cell produces approximately 0.9V. Connect several in series for usable voltage.
+
+### Solar Power
+
+Photovoltaic (PV) panels convert sunlight directly to electricity. A typical panel produces 12V or 24V DC. Output depends on sunlight intensity — rated wattage is at peak sun (1000 W/m² irradiance). In the UK, expect 2–4 peak sun hours per day on average annually.
+
+A basic off-grid solar system: solar panel(s) → charge controller → battery bank → inverter (if AC power needed) → loads.
+
+Charge controller: prevents battery overcharging and over-discharging. MPPT (Maximum Power Point Tracking) controllers are 15–30% more efficient than PWM (Pulse Width Modulation) controllers. Worth the extra cost.
+
+Sizing: determine your daily power consumption in watt-hours. A 100W panel in the UK with 3 peak sun hours produces approximately 300Wh per day. Add 25% for system losses. Battery bank should store at least 2 days of consumption.
+
+Panel mounting: face south (Northern Hemisphere) at an angle equal to your latitude for year-round average. Steeper in winter, flatter in summer. Keep panels clean and unshaded — even partial shading drastically reduces output.
+
+### Wind Power
+
+Small wind turbines can supplement solar, especially in winter when solar output is low. Wind power is proportional to the cube of wind speed — doubling wind speed gives 8× more power. This means site selection is critical.
+
+Minimum average wind speed for viable small wind: 5 m/s (11 mph). Mount the turbine as high as possible — wind speed increases with height. At least 10m above any obstacle within 150m.
+
+A basic wind turbine: blades (carved from wood or cut from PVC pipe), a generator/alternator (salvaged car alternator, DC motor, or purpose-built), a tail vane for orientation, and a tower or pole mount. Output is wild AC — rectify to DC for battery charging.
+
+### Hydroelectric Power
+
+Moving water is the most consistent renewable energy source. Even a small stream with 2m of head (vertical drop) can generate useful power continuously.
+
+Micro-hydro: divert water through a pipe (penstock) to a turbine at a lower point. Power = head (m) × flow rate (litres/sec) × 7 (roughly, accounting for efficiency). So 5m head × 10 L/s = 350W continuous — enough for lighting and small appliances for a settlement.
+
+Overshot water wheel: water poured into buckets at the top of the wheel. The weight of water turns the wheel. Efficient (up to 85%) and works with moderate flow and head. Can be built from wood.
+
+### Generators
+
+Internal combustion generators convert fuel to electricity via an engine driving an alternator. Petrol generators are common but fuel is a finite resource. Diesel generators are more fuel-efficient. Both produce AC power.
+
+Salvaging: any motor can be used as a generator when spun mechanically. DC motors produce DC. AC motors (induction type) require residual magnetism or external excitation to generate — a capacitor across the windings can self-excite an induction motor.
+
+Bicycle generator: connect a bicycle to a generator via chain, belt, or friction drive. A fit person can sustain 75–100W for extended periods. Enough to charge batteries, run lights, or power a radio.
+
+### Wiring and Safety
+
+Wire gauge matters: thicker wire carries more current with less loss. For 12V DC systems, voltage drop is significant over distance — use the thickest wire practical. As a rule: for 12V, keep wire runs short (under 5m) or use heavy gauge.
+
+Fuses and circuit breakers protect against fire from short circuits or overloaded wires. A fuse is a thin wire that melts and breaks the circuit when current exceeds its rating. Always fuse the positive wire, as close to the battery as possible.
+
+Grounding: connect the negative terminal of your system to a copper rod driven into the earth. This provides a safety path for fault currents and protects against lightning.
+
+DC vs AC: batteries produce DC (direct current). Solar panels produce DC. Most electronics run on DC. AC (alternating current) is used for transmission over distance because transformers can step voltage up and down easily. An inverter converts DC to AC.
+
+12V DC is safe to touch — below the threshold for dangerous current flow through skin. 240V AC (UK mains) or 120V AC (US mains) is lethal. Treat all AC systems with extreme caution.
+
+### Energy Storage and Conservation
+
+Energy conservation is easier than energy production. LED lighting uses 1/10th the power of incandescent bulbs. Insulate buildings to reduce heating energy. Use thermal mass (stone, water, earth) to store heat.
+
+Thermal storage: heat water with solar collectors (even a black-painted tank in sunlight) and use it for heating and washing. A well-insulated water tank retains heat for days.
+
+Flywheel storage: a heavy spinning wheel stores kinetic energy. Traditional potter's wheels and industrial flywheels use this principle. Can smooth out intermittent power from wind or human-powered generators.
+
+### Practical Low-Power Devices
+
+LED lighting: a single 1W LED produces useful light. Run directly from a 12V battery with a resistor, or use a 12V LED strip. A 100Ah battery can run a 1W LED for over 1000 hours.
+
+Radio: a basic receiver draws 50–200mW. A transceiver draws 1–5W on receive and 5–50W on transmit.
+
+Raspberry Pi (computing): 5–15W depending on load. The Pip-Boy's Pi 5 draws approximately 8W average — a 100Ah 12V battery (1200Wh) could run it for 150 hours with a DC-DC converter.
+
+Charging phones/devices: most phones charge at 5V, 1–2A (5–10W). A small solar panel (20W) can charge a phone in 2–3 hours of sun.

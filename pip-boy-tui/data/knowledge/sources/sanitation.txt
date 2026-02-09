@@ -1,0 +1,87 @@
+## DOMAIN: Sanitation and Hygiene
+
+### Why Sanitation Matters
+
+More people throughout history have died from waterborne diseases and poor sanitation than from violence. Cholera, typhoid, dysentery, and hepatitis spread through faecal contamination of water. Establishing proper sanitation is one of the highest priorities for any settlement — it prevents epidemics that can decimate a community in days.
+
+### The Faecal-Oral Route
+
+The primary disease transmission path: pathogens from faeces reach the mouth via contaminated water, unwashed hands, contaminated food, or flies. Breaking this chain at any point prevents disease. The key interventions: safe waste disposal, clean water, handwashing, food hygiene, and fly control.
+
+### Latrine Construction
+
+Cat hole (short-term): dig a hole 15–20cm deep, at least 60m from water sources, trails, and camp. Bury waste and toilet paper. Adequate for individuals or small groups for a few days.
+
+Simple pit latrine: dig a pit at least 2m deep, 1m wide. Build a platform over it with a squat hole or seat. Surround with privacy walls. Place at least 30m from any water source and downhill from the water supply. A well-maintained pit latrine serves a family for 2–5 years.
+
+VIP latrine (Ventilated Improved Pit): as above but add a ventilation pipe (10cm diameter PVC or bamboo) from the pit extending above the roof, with a fly screen at the top. The pipe creates an updraft that vents odour and traps flies (they fly toward the light at the top of the pipe and cannot escape through the screen). Significantly reduces smell and fly problems.
+
+Composting toilet: separates urine and faeces. Faeces are mixed with carbon material (sawdust, dry leaves, wood ash) after each use. When the container is full, seal and compost for at least 12 months. The heat from composting kills pathogens. The finished compost is safe for fruit trees and non-food crops. Urine can be diluted 10:1 with water and used as nitrogen fertiliser.
+
+Arborloo: a shallow pit latrine with a tree planted on top when full. Dig a new pit, move the superstructure. The tree grows vigorously from the nutrient-rich pit. An elegant long-term solution for settlements.
+
+### Handwashing
+
+Handwashing with soap reduces diarrhoeal disease by 40–50%. It is the single most effective hygiene intervention. Wash hands: after using the latrine, before preparing food, before eating, after handling animals, after handling waste.
+
+Tippy tap: a simple hands-free handwashing station. Hang a water container (jerry can with a small hole or a gourd) from a frame. A foot-operated lever tilts the container to pour water. Place soap on a string nearby. No-touch operation reduces cross-contamination.
+
+Soap making: combine fat/oil (animal fat rendered to tallow, or plant oils) with lye (sodium hydroxide or potassium hydroxide). Lye from wood ash: pour water through hardwood ash (oak, hickory, beech) and collect the drippings (potassium carbonate solution). Concentrate by boiling. Mix lye solution with melted fat at approximately 40°C, stir until it thickens (trace), pour into moulds. Cure for 4–6 weeks. The resulting soap is effective for cleaning and handwashing. Hot-process method: cook the mixture for 1–2 hours — soap is usable immediately.
+
+If no soap is available: ash and water form a mild alkali solution that kills many pathogens. Sand can be used as an abrasive cleanser. Alcohol-based solutions (strong spirits) sanitise hands effectively.
+
+### Water Treatment
+
+All drinking water should be treated. See the Water domain for detailed methods. Key points: boil for 1 minute (3 minutes above 2000m), chemical treatment with bleach (2 drops per litre), SODIS (clear bottle in sun for 6 hours), or filtration through sand/charcoal followed by boiling.
+
+Protect water sources: fence off springs and wells to prevent animal contamination. Designate separate areas upstream for drinking water collection and downstream for washing and bathing. Never defecate or dump waste near water sources.
+
+### Food Hygiene
+
+Wash hands before preparing food. Cook food thoroughly — internal temperature of 70°C for at least 2 minutes kills most pathogens. Eat cooked food promptly — bacteria multiply rapidly at room temperature (doubling every 20 minutes in ideal conditions).
+
+Separate raw and cooked food. Use different cutting surfaces and utensils for raw meat and ready-to-eat food. Wash all utensils with hot soapy water after use.
+
+Protect food from flies — cover with cloth or mesh. Flies land on faeces and then on food, transferring pathogens directly. Fly control is food hygiene.
+
+Store perishable food in the coolest available place. A zeer pot (evaporative cooler — a pot within a pot, wet sand between them) can reduce temperature by 10–15°C in dry climates. Root cellars maintain temperatures of 10–15°C year-round.
+
+### Waste Management
+
+Separate waste: organic waste (food scraps, plant matter) → compost. Burnables (paper, clean wood) → fuel. Metals, glass → salvage. Medical waste (bandages, sharps) → burn in a hot fire.
+
+Compost: layer green waste (nitrogen-rich: food scraps, fresh plants) and brown waste (carbon-rich: dry leaves, straw, sawdust) in approximately equal volumes. Keep moist but not waterlogged. Turn every 1–2 weeks. A well-managed compost pile reaches 55–65°C, killing pathogens and weed seeds. Ready in 2–4 months.
+
+Grey water (from washing): filter through a gravel/sand bed before releasing to the ground. Do not allow grey water to pool near living areas — it breeds mosquitoes. Irrigate trees or non-food crops with grey water.
+
+Refuse pit: for non-compostable, non-burnable waste. Dig a pit at least 2m deep, away from living areas and water. Cover waste with soil regularly to prevent flies and odour. When full, cover with 60cm of soil.
+
+### Disease Prevention
+
+Diarrhoeal diseases: prevented by safe water, handwashing, and food hygiene. If outbreak occurs, isolate patients, enforce strict handwashing, boil all water, and identify/eliminate the contamination source.
+
+Mosquito-borne diseases (malaria, dengue): eliminate standing water where mosquitoes breed — empty containers, fill puddles, cover water storage. Sleep under mosquito nets. Burn smoky fires in the evening. Wear long sleeves and trousers at dusk and dawn.
+
+Respiratory infections: ventilate living spaces. Isolate sick individuals. Cover coughs and sneezes. Wash hands after contact with sick persons.
+
+Wound infections: clean all wounds promptly with clean water and soap. See Medical domain for wound care. Keep wounds covered and dry. Change dressings regularly. Watch for signs of infection: increasing redness, swelling, warmth, pus, red streaks spreading from the wound, fever.
+
+Rodent-borne diseases: store food in sealed containers. Keep living areas clean. Block entry points. Traps are safer than poison in a settlement. Do not handle dead rodents with bare hands.
+
+### Personal Hygiene
+
+Bathing: wash the body regularly, even if only with a cloth and water. Focus on groin, armpits, feet, and hands — areas where bacteria thrive. In cold water, a strip wash (washing sections at a time while keeping the rest clothed) prevents dangerous heat loss.
+
+Dental hygiene: a frayed twig (miswak — from Salvadora persica, or any fibrous twig) works as a toothbrush. Baking soda mixed with water is an effective toothpaste. Salt water rinse kills bacteria. Dental infections can become life-threatening — prevention is critical.
+
+Foot care: keep feet dry. Change socks daily. Treat blisters promptly — clean, drain if large (sterilised needle), cover with clean dressing. Foot rot and trench foot develop after prolonged exposure to wet conditions — dry and warm feet as soon as possible. Elevate feet when resting.
+
+Clothing: wash clothes regularly, especially undergarments. Lice thrive in dirty clothing and spread typhus. Boiling clothing kills lice and their eggs. Ironing seams (where lice hide) is effective. If lice are detected, treat all clothing and bedding simultaneously.
+
+### Menstrual Hygiene
+
+Reusable cloth pads can be made from absorbent fabric (cotton, flannel). Fold into pad shape, secure with ties or a belt. Wash in cold water first (to remove blood), then hot soapy water. Dry in sunlight — UV helps sterilise. A menstrual cup (if available) is reusable for years and requires only boiling to sterilise between cycles.
+
+### Quarantine Procedures
+
+If a contagious disease appears: isolate the patient in a separate shelter. Designate one or two caregivers who limit contact with the rest of the community. Caregivers wash hands thoroughly before and after contact. All bedding, clothing, and utensils used by the patient should be boiled or burned. Restrict movement in and out of the settlement until the outbreak is controlled.

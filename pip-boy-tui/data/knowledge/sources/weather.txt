@@ -1,0 +1,95 @@
+## DOMAIN: Weather Interpretation and Forecasting
+
+### Barometric Pressure
+
+Atmospheric pressure is the single best indicator of short-term weather changes. Normal sea-level pressure is approximately 1013 hPa (millibars) or 29.92 inches of mercury.
+
+Rising pressure generally indicates improving weather — clearing skies, less wind. Falling pressure indicates deteriorating weather — approaching storms, rain, increased wind. Rapidly falling pressure (more than 3–4 hPa in 3 hours) warns of severe weather approaching, potentially within hours.
+
+Steady high pressure (above 1020 hPa) usually means fair weather. Steady low pressure (below 1000 hPa) means unsettled weather. The rate of change matters more than the absolute value.
+
+If you have no barometer: observe water in a sealed glass jar with a spout — as pressure drops, water rises in the spout. A campfire's smoke rising straight up indicates high pressure; smoke beaten down and spreading along the ground indicates low pressure.
+
+### Cloud Types and What They Mean
+
+Cirrus: thin, wispy, high-altitude (above 6000m). Made of ice crystals. Fair weather if sparse. If thickening and spreading, a warm front is approaching — rain in 12–24 hours.
+
+Cirrostratus: thin, sheet-like veil at high altitude. Often creates a halo around the sun or moon. Warm front approaching — rain likely within 12–24 hours.
+
+Cirrocumulus: small white puffs in rows at high altitude (mackerel sky). Indicates instability at high levels. Fair weather in the short term but change coming.
+
+Altocumulus: mid-level (2000–6000m) white or grey patches, often in waves or layers. If appearing on a warm, humid morning, thunderstorms may develop by afternoon.
+
+Altostratus: grey or blue-grey mid-level sheet. Sun appears as if through frosted glass. Continuous rain or snow approaching within hours.
+
+Stratocumulus: low, lumpy grey clouds in patches or sheets. Light rain or drizzle possible but often just overcast. Usually not severe.
+
+Stratus: uniform grey low-level layer, fog-like. Drizzle or light rain. Low visibility. Often burns off by midday.
+
+Cumulus: puffy, white, flat-bottomed clouds. Fair weather when small and widely spaced (cumulus humilis). If they grow tall during the day, becoming towering cumulus (cumulus congestus), thunderstorms may develop.
+
+Cumulonimbus: massive vertical development, anvil-shaped top. Thunderstorms, heavy rain, hail, strong winds, possible tornadoes. The anvil shape indicates the cloud has reached the tropopause. Extremely dangerous — seek shelter immediately.
+
+Nimbostratus: thick, dark grey layer, obscures the sun completely. Continuous moderate to heavy rain or snow, lasting hours.
+
+### Cloud Sequences
+
+Warm front approaching: cirrus → cirrostratus → altostratus → nimbostratus → rain. The whole sequence typically takes 12–24 hours. Pressure falls steadily.
+
+Cold front approaching: cumulus builds rapidly, sometimes preceded by a line of altocumulus. Cumulonimbus develops. Heavy rain, possibly with thunder, but passes quickly (1–3 hours). Sharp pressure drop then rapid rise. Temperature drops sharply after passage. Wind shifts clockwise (Northern Hemisphere).
+
+### Wind and Weather
+
+Wind direction indicates where weather is coming from. In the Northern Hemisphere, stand with your back to the wind — low pressure is to your left (Buys Ballot's law). In the Southern Hemisphere, low pressure is to your right.
+
+Increasing wind speed usually signals approaching weather systems. Sudden calm after strong winds can indicate the eye of a storm or a brief lull before a front passes.
+
+Backing wind (shifting counter-clockwise, eg. south to east) indicates deteriorating weather. Veering wind (shifting clockwise, eg. south to west) indicates improving weather, often after a cold front passes.
+
+Sea breezes blow onshore during the day (land heats faster than water), offshore at night (land cools faster). Mountain breezes blow downhill at night (cold air sinks), uphill during the day.
+
+### Natural Weather Signs
+
+Red sky at night, shepherd's delight — a red sunset means clear skies to the west (where weather comes from in temperate zones). Red sky in the morning, shepherd's warning — a red sunrise means clear skies to the east (weather has already passed) and clouds approaching from the west.
+
+A halo around the sun or moon (caused by cirrostratus) means rain within 12–24 hours. The ring is formed by ice crystals at high altitude.
+
+Dew on the grass in the morning indicates clear skies overnight and usually a fine day ahead. No dew suggests cloud cover overnight and possible rain.
+
+Frogs croak more loudly and persistently before rain. Their skin is sensitive to humidity changes.
+
+Swallows and swifts flying low indicates low pressure — insects are forced down by moisture-laden air. Birds flying high indicates fair weather.
+
+Pine cones close their scales when humidity rises (rain approaching) and open in dry weather.
+
+Distant sounds seem louder and clearer before rain — sound travels better through moist, dense air under low pressure.
+
+Smoke from a fire rising vertically indicates stable high pressure and fair weather. Smoke spreading horizontally or sinking indicates low pressure and approaching bad weather.
+
+Strong scent from flowers and plants indicates high humidity and possible approaching rain — moist air carries scent molecules better.
+
+### Fog
+
+Radiation fog forms on clear, calm nights when the ground cools rapidly. Common in valleys. Usually burns off by mid-morning. Indicates fair weather.
+
+Advection fog forms when warm, moist air moves over a cold surface (eg. warm air over cold sea). Can persist for days.
+
+Fog on hilltops that descends into valleys usually indicates deteriorating weather.
+
+### Lightning Safety
+
+If the time between lightning and thunder is less than 30 seconds (the flash-to-bang is less than 10 km), seek shelter immediately. Avoid hilltops, open fields, isolated trees, water, and metal objects.
+
+The 30-30 rule: if the time between flash and bang is 30 seconds or less, take shelter. Wait 30 minutes after the last flash before leaving shelter.
+
+If caught in the open: crouch low (do not lie flat), feet together, hands on knees, minimise ground contact. Stay away from other people (spread out in a group). Drop metal objects.
+
+### Seasonal Patterns in Temperate Climates
+
+Spring: rapidly changing weather, alternating warm and cold fronts, frost risk until late spring. Thunderstorms develop as the ground warms.
+
+Summer: longest days, warmest temperatures. Afternoon thunderstorms common in humid conditions. Heatwaves during blocking high-pressure systems.
+
+Autumn: increasing storm frequency and intensity. First frosts. Fog becomes more common.
+
+Winter: shortest days, coldest temperatures. Snow at elevation and in northern regions. Freezing rain, ice storms. Hypothermia risk highest.

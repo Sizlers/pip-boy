@@ -1,0 +1,92 @@
+## DOMAIN: Radio Communications
+
+### Radio Basics
+
+Radio waves are electromagnetic radiation. They travel at the speed of light and can be reflected, refracted, and absorbed. Frequency is measured in Hertz (Hz). Higher frequencies carry more data but travel shorter distances and are blocked more easily by obstacles. Lower frequencies travel further and penetrate obstacles better but carry less data.
+
+Key frequency bands:
+- HF (High Frequency): 3–30 MHz. Long range via skywave propagation (bounces off the ionosphere). Can reach hundreds or thousands of kilometres. Best for long-distance communication when infrastructure is down.
+- VHF (Very High Frequency): 30–300 MHz. Line-of-sight plus some diffraction over hills. Range typically 10–50 km on ground. Used for FM broadcast, marine radio, aviation, amateur radio (2m band at 144–148 MHz).
+- UHF (Ultra High Frequency): 300 MHz–3 GHz. Strictly line-of-sight. Range typically 5–20 km on ground. Better building penetration than VHF. Used for PMR446 (walkie-talkies), amateur radio (70cm band at 430–440 MHz), FRS/GMRS.
+
+### License-Free Radio Options
+
+PMR446 (Europe): 446 MHz UHF, 16 channels, 500mW power limit. No license required. Range 1–5 km depending on terrain. Widely available, inexpensive handheld radios. Good for local group communication.
+
+FRS (USA/Canada): Family Radio Service, 462/467 MHz UHF. 22 channels, 2W power limit. No license required. Range 1–3 km typical.
+
+GMRS (USA): General Mobile Radio Service. Shares frequencies with FRS but allows up to 50W and repeater use. Requires a license (no exam).
+
+CB Radio: Citizens Band, 27 MHz (HF). 40 channels, 4W AM or 12W SSB. No license required in most countries. Range 5–15 km on ground, but can skip hundreds of kilometres via ionospheric propagation (especially during solar maximum). Bulkier antennas than UHF but good for vehicle-mounted use.
+
+### Amateur (Ham) Radio
+
+Amateur radio requires a license obtained by passing an exam. Licenses grant access to a wide range of frequencies from HF to microwave. In emergencies, most jurisdictions allow unlicensed use on amateur frequencies when life is at risk.
+
+Key amateur bands for survival:
+- 80m band (3.5–4 MHz): good for regional communication, especially at night (100–500 km).
+- 40m band (7–7.3 MHz): best all-round HF band, works day and night (100–2000+ km).
+- 20m band (14–14.35 MHz): best for long-distance daytime communication (500–5000+ km).
+- 2m band (144–148 MHz VHF): local communication. Many repeaters extend range. Standard for local emergency nets.
+- 70cm band (430–440 MHz UHF): similar to 2m but better for handheld use. Shorter range.
+
+SSB (Single Sideband) is more efficient than AM for voice — use upper sideband (USB) on frequencies above 10 MHz, lower sideband (LSB) below 10 MHz. FM is used on VHF/UHF.
+
+### Emergency Frequencies
+
+International distress frequencies:
+- 121.5 MHz: aviation emergency (VHF AM). Monitored by aircraft and search-and-rescue.
+- 156.8 MHz (Channel 16): maritime distress (VHF FM). Monitored by coast guard and vessels.
+- 2.182 MHz: maritime distress (HF). Monitored internationally.
+- 406 MHz: emergency locator beacons (EPIRB, PLB, ELT). Satellite-detected.
+
+Amateur emergency frequencies (calling frequencies):
+- 7.110 MHz (40m): common HF emergency net.
+- 14.300 MHz (20m): international emergency traffic.
+- 145.500 MHz (2m FM): European calling/emergency.
+- 146.520 MHz (2m FM): North American calling frequency.
+
+Channel 9 on CB (27.065 MHz) is designated for emergencies in many countries.
+
+### Antenna Basics
+
+The antenna is the most important part of any radio system. A better antenna improves both transmission and reception far more than increasing transmitter power.
+
+Dipole antenna: a wire cut to half the wavelength of your target frequency, split in the middle and fed with coax cable. Simple, effective, and can be made from any wire. For 7 MHz (40m band): total length approximately 20 metres (10m each side). Hang horizontally between trees for best results.
+
+Quarter-wave vertical: a single wire or rod, one quarter of the wavelength, mounted vertically. Needs a ground plane (radial wires on the ground, or a vehicle roof). Good omnidirectional coverage.
+
+Higher antennas perform better. Getting an antenna even a few metres above ground makes a significant difference, especially for VHF/UHF. Use trees, poles, buildings.
+
+Wire antennas can be improvised from any conductive wire — electrical wire, fence wire, even aluminium foil strips.
+
+### Repeaters
+
+VHF/UHF repeaters are automatic relay stations on hilltops or tall buildings. They receive on one frequency and retransmit on another, extending the range of handheld radios from a few kilometres to 50+ km. Most amateur repeaters use a standard offset (eg. +600 kHz on 2m). Some require a CTCSS tone (a sub-audible tone your radio transmits to activate the repeater). In a post-infrastructure scenario, solar-powered repeaters could provide critical regional communication.
+
+### Radio Procedure
+
+Standard voice procedure ensures clear communication:
+- Identify yourself and the station you're calling: "Alpha Base, this is Foxtrot One."
+- Wait for acknowledgment before transmitting your message.
+- Keep transmissions brief and clear. Speak slowly and distinctly.
+- Use the NATO phonetic alphabet for spelling: Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliet, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu.
+- "Roger" = understood. "Wilco" = will comply. "Over" = I'm done speaking, awaiting reply. "Out" = conversation ended.
+- "Mayday" (x3) for life-threatening emergencies. "Pan-Pan" (x3) for urgent but not life-threatening situations.
+- Include your position (grid reference or description), the nature of the emergency, number of people involved, and assistance required.
+
+### Radio Discipline
+
+In a survival situation, minimise transmissions — every transmission reveals your position to anyone with a direction-finding antenna. Use low power when possible. Keep conversations short. Establish scheduled contact times (skeds) rather than transmitting continuously. Use code words for sensitive locations if operational security is a concern.
+
+Batteries are the primary constraint for portable radio. A 5W VHF handheld typically runs 8–12 hours on a full battery with moderate use. Carry spares. Solar charging is viable for long-term operation.
+
+### Improvised Communication
+
+Signal mirror: a flat reflective surface aimed at an aircraft or distant person. Flash three times (SOS). Effective up to 50+ km in clear weather.
+
+Smoke signals: three fires in a triangle is an international distress signal. Add green vegetation for white smoke (visible against dark backgrounds) or oil/rubber for black smoke (visible against light backgrounds).
+
+Ground-to-air signals: lay out large symbols using logs, rocks, or fabric in open ground. V = require assistance. X = require medical help. I = require doctor. → = travelling in this direction. Standard size: at least 3 metres tall, 30cm wide lines.
+
+Whistles carry further than shouting and require less energy. Three blasts is a universal distress signal.

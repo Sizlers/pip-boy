@@ -1,0 +1,80 @@
+## DOMAIN: Governance, Law, and Social Organisation
+
+### Why Governance Matters for Rebuilding
+
+After a collapse, the greatest threat is often not nature but other humans. Establishing fair governance early prevents warlordism, hoarding, and conflict. History shows that groups with agreed-upon rules and dispute resolution survive better than those without.
+
+### Foundational Principles
+
+Rule of law: laws apply equally to everyone, including leaders. No one is above the law.
+Consent of the governed: authority derives from the people it serves. Leaders serve at the community's will.
+Separation of powers: those who make rules, enforce rules, and judge disputes should be different people/groups. Concentration of all three in one person is tyranny.
+Due process: no punishment without a fair hearing. The accused has the right to know the charges, present a defence, and be judged by impartial people.
+Property rights: people must be secure in their possessions and the fruits of their labour, or they will not produce.
+
+### The Magna Carta (1215) — Key Principles
+
+The Magna Carta established that even kings are subject to law. Key ideas still relevant:
+- No free person shall be imprisoned, dispossessed, or destroyed except by lawful judgement of their peers or the law of the land. (Clause 39)
+- Justice shall not be sold, denied, or delayed. (Clause 40)
+- Taxes/levies require common consent. (Clause 12)
+- Standardised weights and measures for fair trade. (Clause 35)
+
+### Common Law Basics
+
+Common law developed in England over centuries. Core principles:
+- Precedent: past decisions guide future ones. Consistency and predictability.
+- Jury trial: judgement by ordinary community members, not just a single authority.
+- Innocent until proven guilty: the burden of proof is on the accuser.
+- Proportional punishment: the punishment should fit the crime.
+- Right to self-defence: you may use reasonable force to protect yourself and others from imminent harm.
+- Freedom of contract: people can make voluntary agreements that are binding.
+
+### Practical Small Community Governance
+
+For a post-collapse community of 20-200 people:
+
+Council: elected representatives (one per ~20 people). Term limits (e.g., 1 year). Rotating leadership prevents power consolidation.
+
+Community charter: a written document (constitution equivalent) that establishes:
+- Rights: speech, property, fair trial, movement, association.
+- Duties: contributing labour, militia/defence duty, following community decisions.
+- Decision process: majority vote for ordinary matters, supermajority (2/3) for charter changes.
+- Dispute resolution: mediation first, then arbitration by council.
+- Expulsion: only for the most serious offences, by supermajority vote, after a hearing.
+
+Resource management: common resources (water source, grazing land, forest) need explicit rules to prevent tragedy of the commons. Assign quotas, rotation schedules, or designate a steward.
+
+### Trade and Currency
+
+Barter works for small groups but becomes inefficient as communities grow. Historical solutions:
+- Commodity money: a universally useful item becomes currency (salt, tobacco, ammunition, grain). Must be divisible, durable, portable, and have intrinsic value.
+- Representative money: tokens (tally sticks, paper notes) that represent a claim on stored commodities.
+- Key principle: the money supply should roughly match the goods available, or you get inflation (too much money) or deflation (too little).
+
+Standardised weights and measures are critical for fair trade. Establish them early and enforce them.
+
+### Record Keeping
+
+Written records are civilisation's memory. Establish record-keeping for:
+- Land boundaries and ownership
+- Births, deaths, marriages
+- Agreements and contracts
+- Council decisions and laws
+- Crop yields and resource inventories
+- Technical knowledge (preserve this Pip-Boy's knowledge base in written form!)
+
+### Conflict Resolution
+
+Escalation ladder:
+1. Direct conversation between parties.
+2. Mediation: a neutral third party helps them find agreement.
+3. Arbitration: a neutral third party hears both sides and makes a binding decision.
+4. Council hearing: for serious matters affecting the community.
+5. Exile/separation: absolute last resort for irreconcilable dangerous individuals.
+
+Violence as a resolution method should be explicitly prohibited by the community charter. Self-defence remains a right.
+
+### Defence and Security
+
+Organise a community militia: every able-bodied adult trains and takes shifts on watch. Establish a perimeter, communication signals, and a plan for various threats. Stockpile defensible positions. Intelligence: maintain awareness of other groups in the region — trade where possible, prepare for conflict where necessary.

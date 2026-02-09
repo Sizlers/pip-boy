@@ -1,0 +1,75 @@
+## DOMAIN: Metalworking and Blacksmithing
+
+### Why Metalworking Matters
+
+The ability to work metal is one of the key differences between basic survival and rebuilding civilisation. Metal tools, fasteners, weapons, cooking implements, and hardware are essential for construction, agriculture, medicine, and defence. A functioning forge is one of the highest-priority infrastructure items for any permanent settlement.
+
+### Types of Metal
+
+Iron and steel: iron is smelted from iron ore (red/brown rocks, heavy for their size) or salvaged from existing structures (rebar, car parts, tools). Steel is iron with 0.2–2% carbon added. Low-carbon steel (mild steel) is easy to work and weld. High-carbon steel (0.6–1.4%) can be hardened and holds an edge — essential for tools and blades. Stainless steel contains chromium and is corrosion-resistant but harder to forge.
+
+Copper: soft, easily worked, excellent conductor. Found in electrical wiring, plumbing, and electronics. Melts at 1085°C — achievable in a charcoal forge with bellows.
+
+Bronze: copper + tin alloy. Harder than copper. Historically used for tools, weapons, and bearings before iron became widespread. Melts at around 950°C.
+
+Aluminium: lightweight, corrosion-resistant. Melts at 660°C — easy to melt and cast. Found in cans, engine parts, window frames. Cannot be forged effectively — casting is the primary method.
+
+Lead: very soft, low melting point (327°C). Can be melted over a campfire. Used for sinkers, bullets, pipe joints, and radiation shielding. Toxic — avoid skin contact and never heat in an enclosed space.
+
+### The Forge
+
+A forge heats metal to working temperature. A basic forge needs: a fire container (firepot), fuel (charcoal or coal), an air supply (bellows or blower), and something to hold the work.
+
+Simple forge construction: dig a shallow pit or build a clay/brick trough approximately 30cm wide, 30cm deep, 60cm long. Insert an air pipe (tuyere) through the side near the bottom — a steel pipe 2–3cm diameter works well. Connect to bellows or a hand-cranked blower. Fill with charcoal. Light the fire and pump air — the temperature will reach 1100–1300°C, sufficient for forging steel.
+
+Charcoal is the preferred fuel for a hand-built forge. It burns cleaner than coal, produces less sulphur (which weakens steel), and can be made from hardwood (see below). Coal works well but produces clinker (slag) that must be cleared from the firepot.
+
+### Making Charcoal
+
+Build a large fire of hardwood, then cover it with earth leaving a small chimney hole. The wood pyrolyses — volatile gases burn off while carbon remains. The process takes 12–24 hours. When smoke turns from white/yellow to thin blue, the charcoal is ready. Seal all openings and let cool completely (24+ hours). Good charcoal is black, light, and rings when struck.
+
+Alternatively: pack cut hardwood into a metal drum with a small hole in the lid. Place the drum in a fire. Gases escape through the hole and burn. When the flame from the hole turns blue and dies, the charcoal is ready. Seal the hole, remove from fire, and let cool.
+
+### The Anvil
+
+An anvil provides a solid surface for hammering. A proper blacksmith's anvil has a flat face, a horn (pointed end) for bending curves, and a hardy hole for tooling. Weight matters — heavier anvils absorb more hammer force, making work easier.
+
+Improvised anvils: a section of railway rail (set on end or on its side), a large sledgehammer head set in a stump, a thick piece of steel plate (25mm+) bolted to a heavy stump, or a large flat rock for basic cold-working.
+
+### Basic Forging Operations
+
+Drawing out: lengthening metal by hammering on the flat face. Work at bright orange-to-yellow heat (900–1100°C for steel). Hit square, then rotate 90° and hit again to maintain an even cross-section.
+
+Upsetting: thickening metal by hitting on the end. Heat the section you want to thicken, hold vertically, and strike the top. Used to create heads on bolts, nails, and tools.
+
+Bending: heat the section you want to bend. Use the anvil edge or horn. For tight bends, use a bending fork (two prongs mounted in the hardy hole).
+
+Punching and drifting: punch a hole through hot metal using a punch (a pointed tool struck with a hammer). Widen and shape the hole with a drift (a tapered tool driven through the hole).
+
+Forge welding: the oldest welding method. Heat two pieces of steel to white heat (1200°C+), sprinkle flux (borax) on the joint to prevent oxidation, then hammer together firmly. The pieces fuse into a single piece. Requires practice and high temperatures.
+
+Cutting: use a hot cut chisel (placed on the metal, struck with a hammer) to cut through hot steel on the anvil. Always use a sacrificial plate under the work to protect the anvil face.
+
+### Heat Treatment
+
+Hardening: heat high-carbon steel to bright cherry red (approximately 800°C — it becomes non-magnetic at this temperature, test with a magnet). Quench rapidly in water (fastest, most brittle), oil (moderate), or brine (fastest, use with caution). The steel becomes very hard but also very brittle.
+
+Tempering: after hardening, reheat to a lower temperature to reduce brittleness while retaining hardness. Watch the surface colour as it heats (clean the surface with sandpaper first): pale straw (220°C) = maximum hardness, good for razors and scribes; dark straw (240°C) = cutting tools, axes; brown (260°C) = springs, punches; purple (280°C) = cold chisels, axes; blue (300°C) = springs, saws. Quench when the desired colour appears.
+
+Annealing: heat to cherry red and cool very slowly (bury in dry ash or vermiculite). This makes steel as soft as possible — useful before filing, drilling, or machining.
+
+### Essential Items to Forge
+
+Nails: the most consumed fastener. Draw out a thin rod, cut lengths, upset one end for a head. A skilled blacksmith can produce hundreds per day.
+
+Knives and blades: start with high-carbon steel (an old file, spring steel from a vehicle, or a saw blade). Forge to shape, grind the edge, heat treat (harden and temper).
+
+Hinges, hooks, and hardware: simple bending and punching operations.
+
+Agricultural tools: hoes, sickles, plough points, rake tines.
+
+### Safety
+
+Always wear eye protection — scale (oxide flakes) flies off hot metal when struck. Leather apron protects from sparks and hot metal. Never forge galvanised steel — zinc fumes cause metal fume fever (flu-like symptoms, potentially fatal with heavy exposure). Remove galvanising by soaking in vinegar before forging, or grind it off.
+
+Hot metal looks the same as cold metal in daylight once below about 400°C — always assume metal near the forge is hot. Use tongs, not hands. Keep the forge area clear of flammable materials. Have water available for cooling and fire control.

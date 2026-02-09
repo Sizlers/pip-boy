@@ -1,0 +1,25 @@
+{
+  "name": "pip-boy-tui",
+  "module": "src/index.tsx",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun run --watch src/index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/earcut": "^3.0.0",
+    "@types/rbush": "^4.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@mapbox/vector-tile": "^2.0.4",
+    "@opentui/core": "^0.1.77",
+    "earcut": "^3.0.2",
+    "pbf": "^4.0.1",
+    "rbush": "^4.0.1",
+    "simplify-js": "^1.2.4"
+  }
+}

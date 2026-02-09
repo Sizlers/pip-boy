@@ -1,0 +1,91 @@
+## DOMAIN: Navigation and Orienteering
+
+### Magnetic Compass
+
+A magnetic compass needle aligns with Earth's magnetic field. The red/marked end points to magnetic north. Magnetic north is NOT true north — the difference is called magnetic declination, which varies by location and changes over time. In the UK, declination is approximately 1° west (negligible). In parts of North America it can be 10–20° east or west.
+
+To take a bearing: point the direction-of-travel arrow at your target. Rotate the bezel until the orienting arrow aligns with the magnetic needle. Read the bearing at the index line. To follow a bearing: set the bearing on the bezel, hold the compass flat, rotate your body until the needle aligns with the orienting arrow, then walk in the direction the travel arrow points.
+
+Compass errors: keep metal objects, electronics, and magnets away from the compass — they cause deviation. Large iron deposits in the ground can deflect the needle. Power lines and vehicles also cause interference.
+
+### Improvised Compass
+
+Magnetise a needle by stroking it in one direction (same direction, 50+ strokes) with a magnet, silk, or even your hair. Float it on a leaf on still water or suspend it from a thread. The magnetised end points roughly north-south. Determine which end is north by checking against the sun's position.
+
+A razor blade rubbed on the palm of your hand 20+ times in one direction can also be magnetised enough to work as a crude compass when floated on water.
+
+### Map Reading
+
+Topographic maps show terrain using contour lines — lines connecting points of equal elevation. Closely spaced contour lines indicate steep terrain. Widely spaced lines indicate flat or gentle terrain.
+
+Orient your map: align the map's north-south grid lines with your compass needle (accounting for declination). Your map is now oriented to the terrain.
+
+Identify your position by triangulation: take bearings to two or three known landmarks. Draw the back-bearings on the map. Your position is where the lines intersect.
+
+Grid references: most topographic maps use a grid system. A 6-figure grid reference identifies a 100m square. Read eastings (left to right) first, then northings (bottom to top). Remember: "along the corridor, then up the stairs."
+
+### Navigation by the Sun
+
+The sun rises roughly in the east and sets roughly in the west. At solar noon, the sun is due south in the Northern Hemisphere and due north in the Southern Hemisphere.
+
+Shadow stick method: place a straight stick vertically in the ground. Mark the tip of its shadow. Wait 15–20 minutes. Mark the new shadow tip. A line from the first mark to the second runs approximately west to east (first mark is west). A perpendicular line gives north-south.
+
+Watch method (Northern Hemisphere): point the hour hand at the sun. The midpoint between the hour hand and 12 o'clock is approximately south. In the Southern Hemisphere, point 12 o'clock at the sun — the midpoint between 12 and the hour hand is approximately north. Use the watch at standard time, not daylight saving.
+
+### Navigation by Stars — Northern Hemisphere
+
+The North Star (Polaris) indicates true north. It sits within 1° of the celestial north pole. Find it by locating the Big Dipper (Ursa Major) — the two stars forming the front edge of the "cup" (Dubhe and Merak) point to Polaris. The distance to Polaris is approximately 5 times the distance between those two pointer stars.
+
+If the Big Dipper is obscured, use Cassiopeia — a W-shaped constellation on the opposite side of Polaris from the Big Dipper. Polaris lies roughly between Cassiopeia and the Big Dipper.
+
+Orion rises in the east and sets in the west. Orion's belt (three stars in a row) runs approximately east-west when rising or setting. Mintaka, the rightmost belt star, rises due east and sets due west.
+
+### Navigation by Stars — Southern Hemisphere
+
+There is no bright pole star in the southern sky. Use the Southern Cross (Crux) to find south. Extend the long axis of the Cross (from the top star through the bottom star) 4.5 times its length. That point is approximately the south celestial pole. Drop a vertical line from that point to the horizon — that's due south.
+
+Alternatively, draw a line between the two Pointer Stars (Alpha and Beta Centauri). Find the midpoint. Draw a perpendicular line from that midpoint — it intersects with the extended line from the Southern Cross at the south celestial pole.
+
+### Navigation by Moon
+
+A crescent moon: draw an imaginary line through the two tips (horns) of the crescent down to the horizon. In the Northern Hemisphere, this point is approximately south. In the Southern Hemisphere, approximately north.
+
+When the moon rises before sunset, the illuminated side faces west. When it rises after midnight, the illuminated side faces east.
+
+A full moon is highest in the sky at midnight and is roughly opposite the sun — so at midnight a full moon is roughly due south (Northern Hemisphere) or due north (Southern Hemisphere).
+
+### Dead Reckoning
+
+When you can't see landmarks, navigate by dead reckoning: keep track of your direction (compass bearing) and distance traveled. Count paces to measure distance. Determine your pace count: walk 100 metres on flat ground and count double-paces (every time your left foot hits the ground). Most adults take 60–70 double-paces per 100m. On rough terrain, add 10–15%.
+
+Record each leg of your journey: bearing, pace count, and any landmarks. This lets you retrace your route or plot your position on a map.
+
+### Handrails, Backstops, and Aiming Off
+
+A handrail is a linear feature you can follow — a river, ridge, fence line, power line, road. Use handrails to simplify navigation.
+
+A backstop (or catching feature) is a large feature beyond your destination that tells you you've gone too far — a road, river, coastline, ridgeline.
+
+Aiming off: when navigating to a point on a linear feature (eg. a bridge on a river), deliberately aim to one side. When you hit the river, you know which direction to turn to reach the bridge. This avoids the uncertainty of arriving at the feature and not knowing if your target is left or right.
+
+### Natural Navigation Signs
+
+Prevailing wind shapes trees — branches grow longer on the lee side. In the UK and much of the Northern Hemisphere, prevailing wind is from the southwest, so trees lean and have more growth on the northeast side.
+
+Moss grows on the side of trees and rocks that gets the most moisture and least sun — often the north side in the Northern Hemisphere, but this is unreliable as a sole indicator. Use it to confirm other evidence, not as your primary method.
+
+Spider webs are often built on the sheltered (south) side of objects.
+
+Satellite dishes in Europe generally point roughly south-southeast (toward geostationary satellites over the equator). In the Southern Hemisphere they point roughly north.
+
+Snow melts first on south-facing slopes (Northern Hemisphere). North-facing slopes retain snow longer.
+
+Ant hills in Europe tend to be on the south side of trees (for warmth). The south side of the mound often has a gentler slope.
+
+### Distance Estimation
+
+At night, sounds carry further and seem closer than they are. In daytime, objects appear closer in clear air and further in haze.
+
+Rules of thumb for visual estimation: a person is barely visible at 2 km. Individual windows visible at 1 km. Face detail visible at 100m. Eye detail visible at 50m.
+
+Sound estimation: a shout carries approximately 1 km. A gunshot 3–5 km. Thunder: count seconds between flash and sound, divide by 3 for distance in kilometres (or divide by 5 for miles).

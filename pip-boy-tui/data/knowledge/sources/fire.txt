@@ -1,0 +1,56 @@
+## DOMAIN: Fire Making and Management
+
+### Fire Triangle
+
+Fire requires three elements: heat (ignition source), fuel, and oxygen. Remove any one and the fire goes out. Understanding this is the basis of both fire-starting and fire safety.
+
+### Fire Lay Preparation
+
+Gather materials BEFORE attempting ignition. You need three categories:
+- Tinder: fine, dry, highly combustible material. Examples: dry grass, birch bark, cattail fluff, dryer lint, char cloth, fine wood shavings, dry pine needles, fatwood shavings. Must catch a spark or small flame easily.
+- Kindling: small sticks and twigs, pencil-thickness or thinner. Must be dry — snap-test: dry wood snaps cleanly, wet wood bends.
+- Fuel: larger pieces of wood from finger-thickness up to wrist-thickness. Build up gradually — don't smother the fire with large logs too early.
+
+### Fire Lay Types
+
+Teepee: arrange kindling in a cone shape over a tinder bundle. Good for a quick, hot fire. Collapses inward as it burns, feeding itself.
+
+Log cabin: stack kindling in alternating layers like a log cabin, with tinder in the centre. Burns steadily and produces good coals.
+
+Long fire: two parallel logs with fire between them. Good for cooking — pots rest on the logs. Also radiates heat along its length for sleeping beside.
+
+Dakota fire hole: dig two holes 30cm apart, connected by a tunnel at the bottom. Build fire in one hole, the other serves as an air intake. Very efficient, low smoke, wind-resistant, and concealed. Excellent for cooking.
+
+### Ignition Methods
+
+Lighter or matches: most reliable. Keep in waterproof container.
+
+Ferro rod (ferrocerium): scrape with a steel striker or back of a knife. Produces sparks at 3000°C. Works when wet. Direct sparks into tinder bundle.
+
+Flint and steel: strike carbon steel against flint, chert, or quartzite. Sparks land on char cloth or similar. Requires practice.
+
+Bow drill (friction): carve a fireboard (flat piece of dry softwood), a spindle (dry straight stick, ~2cm diameter, 30cm long), and a bearing block (hardwood or stone with a depression). Use a bow (curved stick with cordage) to spin the spindle against the fireboard. The friction creates a coal in the notch. Transfer the coal to a tinder bundle and blow gently. This works but requires practice and the right wood combination — willow on willow, poplar on poplar, or cedar on cedar are good pairings.
+
+Hand drill: similar to bow drill but you spin the spindle between your palms. More difficult and tiring. Use mullein, cattail, or yucca stalks as spindles.
+
+Fire piston: compresses air rapidly in a sealed cylinder, igniting tinder at the tip. Traditional tool in Southeast Asia.
+
+Magnifying lens: focus sunlight to a point on tinder. Any convex lens works — eyeglasses, binocular lens, clear ice shaped into a lens, or a water-filled clear plastic bag curved to focus light.
+
+### Fire in Wet Conditions
+
+Split wet wood open — the inside is dry. Shave fine curls from the dry interior for tinder. Use standing deadwood rather than wood from the ground (ground wood absorbs moisture). Birch bark burns even when wet due to its oils. Pine resin (sap) is highly flammable. Look for fatwood (resin-saturated heartwood from dead pine trees) — it lights easily and burns hot.
+
+Build a platform of sticks under your fire to keep it off wet ground. Start small and build up.
+
+### Fire Safety
+
+Clear a 3m circle around your fire down to mineral soil. Never leave a fire unattended. Keep water or soil nearby to extinguish. In windy conditions, use a Dakota fire hole or shield with rocks/logs. Don't build fires under overhanging branches, near dry grass, or near your shelter (sparks).
+
+### Char Cloth
+
+Cut cotton fabric into small squares, place in a sealed metal tin with a small hole in the lid. Put the tin in a fire. Smoke escapes through the hole. When smoke stops, remove from fire and seal the hole. The cloth inside is now charred — it catches sparks easily and holds an ember. Excellent tinder material.
+
+### Preserving Fire
+
+Carry an ember in a fire bundle: wrap a glowing coal in dry punk wood, bark, or moss. Wrap loosely so air can reach it but it won't blow out. A coal can last hours this way. Alternatively, use a slow match — a length of tightly twisted natural cordage that smoulders slowly.

@@ -1,0 +1,49 @@
+# ── OS ──
+.DS_Store
+Thumbs.db
+
+# ── Dependencies ──
+node_modules/
+
+# ── Build output ──
+pip-boy-tui/dist/
+pip-boy-tui/out/
+*.tgz
+
+# ── AI models & compiled inference engines (large binaries) ──
+ai-models/models/
+ai-models/llama.cpp/
+ai-models/whisper.cpp/
+
+# ── Logs ──
+*.log
+logs/
+
+# ── Environment / secrets ──
+.env
+.env.*
+!.env.example
+
+# ── Caches ──
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# ── Coverage ──
+coverage/
+*.lcov
+
+# ── IDE ──
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Temp / recordings ──
+/tmp/
+*.wav
+
+# ── Screenshots ──
+*.png
+*.jpg
+*.jpeg

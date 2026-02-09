@@ -1,0 +1,69 @@
+## DOMAIN: Knots, Lashings, and Ropework
+
+### Rope Materials
+
+Natural fibre ropes: manila (strong, moderate stretch, degrades in UV/water), sisal (rough, cheap, weakens when wet), cotton (soft, weak, good for lashing padding), hemp (strong, durable, stiffens with age).
+
+Synthetic ropes: nylon (strong, elastic, absorbs shock, weakens in UV over time), polyester (strong, low stretch, UV resistant, good for general use), polypropylene (floats, cheap, weakens in UV and heat), Dyneema/Spectra (extremely strong for its weight, low stretch, slippery — knots may slip).
+
+Paracord (550 cord): nylon, 4mm diameter, rated to 250kg (550 lbs). Contains 7 inner strands that can be separated for lighter tasks (fishing line, sewing thread, snare line). The outer sheath is useful on its own. The most versatile cordage for survival — carry at least 30m.
+
+### Improvised Cordage
+
+Twist plant fibres into rope: harvest long fibres from inner bark (lime/linden, willow, elm), stinging nettles, cattail leaves, yucca, or long grass. Bundle fibres and twist tightly in one direction. Fold the bundle at the midpoint. The two halves will wrap around each other in the opposite direction (reverse twist or Z-twist). This makes a two-ply cord. Add new fibres by overlapping them 10cm before the current fibres run out. Two-ply cords can be twisted together to make thicker rope.
+
+Rawhide: strips of animal hide, scraped and dried. Extremely strong when dry. Shrinks as it dries — useful for binding tool heads (the shrinkage tightens the binding). Weakens when wet.
+
+### Essential Knots
+
+Overhand knot: the simplest knot — a single loop pulled tight. Used as a stopper knot to prevent rope from pulling through a hole. Hard to untie after loading.
+
+Figure-eight knot: a better stopper knot. Form a loop, pass the end around behind the standing part, then through the loop. Easier to untie than an overhand after loading.
+
+Square knot (reef knot): joins two ropes of equal diameter. Left over right, then right over left (or vice versa — the key is alternating). Used for tying bandages and bundling. NOT reliable for joining ropes under heavy load — use a sheet bend instead.
+
+Sheet bend: joins two ropes, especially of different diameters. Form a bight in the thicker rope. Pass the thinner rope up through the bight, around behind both legs of the bight, and back under itself. For extra security, use a double sheet bend (wrap the thinner rope twice around the bight).
+
+Bowline: creates a fixed loop that does not slip or bind under load. Forms a rescue loop, tie-off point, or mooring. The rabbit comes out of the hole, goes around the tree, and back down the hole. Practice until you can tie it one-handed and in the dark. The bowline is arguably the single most useful knot.
+
+Clove hitch: ties a rope to a post or pole. Two turns around the pole with the end tucked under the second turn. Quick to tie and untie. Can slip under heavy or varying loads — secure the free end with a half hitch.
+
+Taut-line hitch (adjustable grip hitch): an adjustable loop knot. Slides to tension or loosen but holds under load. Excellent for guy lines on tents and tarps.
+
+Trucker's hitch: a mechanical advantage system for tensioning rope. Creates a pulley effect in the rope itself, giving approximately 3:1 mechanical advantage. Tie a loop in the standing part (using an alpine butterfly or slip knot), pass the free end around the anchor and back through the loop, then pull. Secure with two half hitches. Essential for securing loads, tightening ridgelines, and building shelters.
+
+Prusik knot: a friction hitch that grips a rope when loaded but slides when unloaded. Wrap a loop of thinner cord around a thicker rope 3 times, then pass the loop through itself. Used for ascending ropes, adjustable tent guy lines, and rescue systems. The cord must be thinner than the rope it grips.
+
+Alpine butterfly: a fixed loop tied in the middle of a rope. Strong in all three directions (both ends and the loop). Useful for creating a tie-off point without access to either end of the rope. Also isolates a damaged section of rope.
+
+Constrictor knot: a binding knot that grips extremely tightly. Like a clove hitch but the end passes under the first turn as well. Once loaded, it's nearly impossible to untie — must be cut off. Excellent for binding bundles, closing bags, and temporary hose clamps.
+
+### Lashings
+
+Square lashing: joins two poles at right angles. Start with a clove hitch on the vertical pole below the horizontal. Wrap the rope around both poles in a square pattern (over the horizontal, behind the vertical, under the horizontal, in front of the vertical) — repeat 3–4 times. Then wrap between the poles (frapping turns) to tighten the whole lashing. Finish with a clove hitch. Used for building frames, shelters, bridges, and furniture.
+
+Diagonal lashing: joins two poles that cross but don't touch (eg. bracing in an X pattern). Start with a timber hitch around both poles. Wrap diagonally around both poles 3–4 times in one direction, then 3–4 times in the other direction (at 90° to the first wraps). Frap between the poles. Finish with a clove hitch.
+
+Shear lashing: joins two parallel poles (eg. for an A-frame). Clove hitch on one pole. Wrap around both poles 8–10 times, loosely. Frap between the poles 2–3 times. Clove hitch on the other pole. Spread the poles apart into an A-frame.
+
+Tripod lashing: like a shear lashing but with three poles. Lay three poles side by side. Clove hitch on an outer pole. Wrap all three 6–8 times (over and under, weaving between them). Frap between each adjacent pair. Clove hitch on the other outer pole. Stand up and spread into a tripod.
+
+### Practical Applications
+
+Ridge line for shelter: tie a trucker's hitch or taut-line hitch between two trees at head height. Drape a tarp over it. Stake the corners with taut-line hitches on guy lines.
+
+Lashed A-frame shelter: shear-lash two poles into a V, lash a ridge pole to the apex, lean branches against the ridge pole. Cover with tarp, leaves, or thatch.
+
+Rope bridge (monkey bridge): tension a thick rope across a stream at foot level using trucker's hitches. Add two hand ropes at shoulder height. Lash vertical support poles at each end. Cross by walking on the foot rope while holding the hand ropes.
+
+Ladder: lash rungs between two long poles using square lashings.
+
+Drag stretcher: lash two long poles parallel with cross-members. Weave rope or fabric between them. For carrying an injured person.
+
+Snares: a running loop (slip knot or Ackerman's loop) set on an animal trail. The animal pushes through and tightens the loop.
+
+### Rope Care
+
+Avoid stepping on rope — grit works into the fibres and causes internal abrasion. Store rope coiled and dry. Inspect for wear, fraying, or damage before critical use. Wet natural-fibre rope shrinks and stiffens — useful for tightening lashings but may weaken the rope.
+
+Cut ends should be whipped (bound with thin cord) or melted (synthetic ropes) to prevent unravelling. To melt, briefly touch the end to a flame and press flat with a wet finger (carefully — molten nylon is hot).
